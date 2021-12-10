@@ -239,7 +239,7 @@ msgid "[I]Next Page[/I]"
 msgstr ""
 
 msgctxt "#32054"
-msgid "Seasons"
+msgid "[COLOR cyan]º[/COLOR] [B][COLOR white]Seasons[/COLOR][/B] "
 msgstr ""
 
 msgctxt "#32055"
@@ -1146,11 +1146,11 @@ msgid "Providers Language"
 msgstr ""
 
 msgctxt "#32361"
-msgid "[B]THOR[/B] : Reset View Types"
+msgid "[B][COLOR cyan]THOR[/COLOR][/B] : Reset View Types"
 msgstr ""
 
 msgctxt "#32362"
-msgid "[B]SETTINGS[/B] : Navigation"
+msgid "[B][COLOR cyan]SETTINGS[/COLOR][/B] : Navigation"
 msgstr ""
 
 msgctxt "#32363"
@@ -1926,7 +1926,7 @@ msgid "Are you sure?"
 msgstr ""
 
 msgctxt "#32556"
-msgid "[B]THOR[/B] : Library"
+msgid "[B][COLOR cyan]THOR[/COLOR][/B] : Library"
 msgstr ""
 
 msgctxt "#32557"
@@ -5207,3 +5207,8 @@ msgstr ""
 msgctxt "#90452"
 msgid "[COLOR cyan]º[/COLOR] [B][COLOR white]2020 - 2029 Movies[/COLOR][/B] "
 msgstr ""
+
+msgctxt "#90453"
+msgid "[COLOR cyan]º[/COLOR] [B][COLOR white]My Liked Lists[/COLOR][/B] "
+msgstr ""
+

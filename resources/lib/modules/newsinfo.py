@@ -8,7 +8,7 @@ from resources.lib.modules.control import addonPath, addonId, joinPath
 from resources.lib.windows.textviewer import TextViewerXML
 
 thor_path = addonPath(addonId())
-news_file = 'https://raw.githubusercontent.com/123Thor/plugin.video.thor/matrix/newsinfo.txt'
+news_file = 'https://raw.githubusercontent.com/aussiehulk/plugin.video.thor/matrix/newsinfo.txt'
 local_news = joinPath(thor_path, 'newsinfo.txt')
 
 
