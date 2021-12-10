@@ -1,0 +1,74 @@
+[B]3.3.2 - Dec 1, 2021[/B]
+- Fixed UnFinished Movies and TV which weren't showing
+- Fixed formating of "My Liked Lists" in Language.po
+- Fixed formating in Tools Menu
+
+
+[B]3.3.1 - Nov 24, 2021[/B]
+- Moved to Kodi 19.3 Matrix
+- Used Venom as a base and added additional menus
+
+[B]2.3.2 - April 19, 2020[/B]
+- Added Local scraper Sources - from TheCrew (Built-in)
+- Added Use of Barnacle Scrapers
+- Made the change in settings.xml
+- Added ablility to scrape using one or more scrapers (Open, Barnacle, Built-in
+- Added TMDB Latest Releases Movies - not working however. Set it as default off in Naviation Settings
+- Updated both sources.py and sources2.py
+
+
+[B]2.3.1 - April 5, 2020[/B]
+- Added Disney+ TV shows
+- Added AppleTV+ TV shows
+
+
+[B]2.3.0 - April 4, 2020[/B]
+- Fixed Movie and TV Search
+- Fixed miscelaneous bronken links
+
+
+[B]2.2.9 - April 3, 2020[/B]
+-Removed resolveURL notification of from previous update.
+- Updated bookmarks caching method to now also
+    record show name and year for better tracking of
+    progress indicators.  This requires you to clear old
+    bookmarks for the new update to be in use.
+	
+	
+[B]2.2.8[/B]
+- added filtering SD and CAM in settings
+
+
+[B]2.2.8[/B]
+- Fixed youtube for trailers and shows
+- Reduced file size of script.thor.artwork
+- Fixed all links for Music and Food, Brews and More
+
+
+[B]2.2.7[/B]
+- fixed cached torrent filter not working
+- changed default TV Originals to on
+
+
+[B]2.2.6[/B]
+- added torrent cached filter
+- fixed movie link error
+
+
+[B]2.2.5[/B]
+- rolled out Hulk repo
+- fixed many broken menu links
+
+
+[B]2.1.11[/B]
+- New Thor Version 
+- thanks to Venom, TheCrew, 13Clowns & IT
+
+
+[B]2.0.2[/B]
+- Help Icon
+
+
+[B]2.0.1[/B]
+- Initial version
+
